@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TikTokOpenSDK",
-            url: "https://github.com/popixels/TikTokOpenSDK-Package/blob/master/TikTokOpenSDK.xcframework.zip",
-            checksum: "65805b09e4ac92d98b11198d3fa71815a79ed90e0a5e8049a33b3b837fba8564"
+            url: "https://github.com/popixels/TikTokOpenSDK-Package/raw/master/TikTokOpenSDK.xcframework.zip",
+            checksum: "4bd0eadc1f2bd0c02c4e317f07d04aff3de0e952d51a867795678fec45e4f0c2"
         )
     ]
 )
